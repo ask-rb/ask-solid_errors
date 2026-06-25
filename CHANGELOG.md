@@ -1,3 +1,7 @@
+## [0.1.2] - 2026-06-25
+
+### Changed
+- Gemspec validation test. Infrastructure: rubocop, overcommit, bin/setup, CI matrix, SimpleCov.
 # Changelog
 
 ## 0.1.0 (2026-06-10)
